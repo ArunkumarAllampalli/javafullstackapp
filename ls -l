@@ -1,0 +1,35 @@
+[33mcommit 9f7034c4bee43c17f778f15173c8698dd4d64eee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0f29788 bbe7d54
+Author: ArunkumarAllampalli <allamarunkumar@gmail.com>
+Date:   Fri May 9 12:49:32 2025 +0530
+
+    Merge pull request #2 from ArunkumarAllampalli/develop
+    
+    Employee Class Added
+
+[33mcommit bbe7d544add884d345c849c2cd3691e1533b8e88[m
+Author: Arun <allamarunkumar@gmail.com>
+Date:   Fri May 9 12:47:07 2025 +0530
+
+    Employee Class Added
+
+[33mcommit 0f2978841ec0ea6517e235ee8d881355e6764e22[m
+Merge: 16cfa32 8fd7753
+Author: ArunkumarAllampalli <allamarunkumar@gmail.com>
+Date:   Fri May 9 09:37:26 2025 +0530
+
+    Merge pull request #1 from ArunkumarAllampalli/develop
+    
+    first commit
+
+[33mcommit 8fd775377a208269e2192c381b1333f489f52a5e[m
+Author: Arun <allamarunkumar@gmail.com>
+Date:   Fri May 9 09:34:15 2025 +0530
+
+    first commit
+
+[33mcommit 16cfa32103e95497ac612c44a528b53f04a1e7b7[m
+Author: Arun <allamarunkumar@gmail.com>
+Date:   Mon Apr 28 17:38:02 2025 +0530
+
+    first-commit
